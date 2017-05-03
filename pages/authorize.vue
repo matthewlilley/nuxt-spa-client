@@ -6,7 +6,7 @@
       <div class="orange bounce2"></div>
       <div class="orange bounce3"></div>
     </div>
-    <div>
+  </div>
 </template>
 
 <script>
